@@ -1,0 +1,60 @@
+p{
+    font-family: 'Roboto', sans-serif;  
+    color: #868581;
+
+}
+
+h1,h2,h3,h4,h5{
+    font-family: Roboto, 'Segoe UI', Tahoma, sans-serif;
+    color:#363958;
+}
+/*---------main-part---------*/
+
+.more-margin{
+    margin-top: 80px;
+}
+.main-text{
+    font-size: 50px;
+    color: #363958;
+    font-weight: 700;
+}
+.cart-logo{
+    width: 20px;
+    margin-right: 8px;
+}
+.btn{
+    background-color: #8AA520;
+    color: white;
+    padding: 15px;
+    font-size: 18px;
+    font-weight: 500;
+}
+.resz{
+    width: 200px;
+    height: 250px;
+    margin-left: 75px;
+    
+}
+.mborder{
+    border: 0;
+}
+.logo{
+    width: 80px;
+    height: 78px;
+}
+
+.logo-box{
+    margin-left: 25px;
+}
+
+.detail-section{
+    margin-top: 150px;
+    
+}
+.write-part{
+    margin-left: 40px;
+
+}
+.logo-box{
+    paii
+}
